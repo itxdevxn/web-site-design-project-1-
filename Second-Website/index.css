@@ -1,0 +1,102 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.images{
+    height: 140vh;
+}
+.images .pos{
+    position: absolute;
+    width: 100%;
+    height: 140%;
+    object-fit: cover;
+    z-index: 1;
+}
+
+.content-images{
+    padding-top: 10%;
+    padding-bottom: 20%;
+}
+.shoe1{
+    padding-left: 9%;
+}
+.shoe2{
+    padding-left: 9%;
+}
+.shoe3{
+    padding-left: 9%;
+}
+.shoe1head{
+    position: absolute;
+    color: white;
+    font-family: Oswald;
+    margin-top: 1%;
+    margin-left: 9%;
+}
+.shoe1para{
+    position: absolute;
+    color: white;
+    font-family: Roboto;
+    margin-left: 9%;
+    margin-top: 4.2%;
+    font-size: 25px;
+}
+.shoe3head{
+    position: absolute;
+    color: white;
+    font-family: Oswald;
+    margin-top: 1%;
+    margin-left: 39.2%;
+}
+.shoe3para{
+    position: absolute;
+    color: white;
+    font-family: Roboto;
+    margin-left: 39.2%;
+    margin-top: 4.2%;
+    font-size: 25px;
+}
+.shoe2head{
+    position: absolute;
+    color: white;
+    font-family: Oswald;
+    margin-top: 1%;
+    margin-left: 70%;
+}
+.shoe2para{
+    position: absolute;
+    color: white;
+    font-family: Roboto;
+    margin-left: 70%;
+    margin-top: 4.2%;
+    font-size: 25px;
+}
+.btn1{
+    margin-top: 15%;
+    margin-left: 8.8%;
+}
+.btn2{
+    margin-top: 15%;
+    margin-left: 39%;
+}
+.btn3{
+    margin-top: 12%;
+    margin-left: 70%;
+}
+.page2 img{
+   width: 100%;
+    position: absolute;
+    z-index: -1;
+}
+.topbtn{
+    margin-left: 5%;
+    margin-top: 2%;
+    position: absolute;
+    z-index: 2;
+}
+.topbtn2{
+    margin-left: 12%;
+    margin-top: 2%;
+    position: absolute;
+    z-index: 2;
+}
